@@ -22,3 +22,5 @@ Tuto de la creation d'un projet sur github -> https://guides.github.com/activiti
  3) In the editor, write a bit about yourself.
  4) Write a commit message that describes your changes.
  5) Click Commit changes button.
+# Open a Pull Request for changes to the README
+...
