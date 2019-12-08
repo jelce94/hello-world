@@ -24,3 +24,5 @@ Tuto de la creation d'un projet sur github -> https://guides.github.com/activiti
  5) Click Commit changes button.
 # Open a Pull Request for changes to the README
 ...
+Click the  Pull Request tab, then from the Pull Request page, click the green New pull request button.
+In the Example Comparisons box, select the branch you made, readme-edits, to compare with master (the original).
